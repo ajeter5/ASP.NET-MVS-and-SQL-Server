@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*CODE-02 - This View displays a form for the user to create a new Order by specifying
+    the CustomerId and optionally specifying notes about the order*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create Order</title>
+</head>
+<body>
+    <h2>Create Order</h2>
+    <center>
+        <form id="frmDetail" method="post" action="@Url.Action("InsertRecord")">
+            <br />
+            <br />
+            <br />
+            Enter CustomerID: <input name="txtCustomerId"/>
+            Enter Notes: <input name="txtNotes" />
+            <input type="submit" value="Submit" name="action" />  <input type="submit" value="Cancel" name="action" @Url.Action("Index") />
+        </form>
+    </center>
+</body>
+</html>  

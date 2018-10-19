@@ -1,0 +1,66 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*CODE-01: This is the Home view. The view displays a list of Orders with Order ID, Customer ID,
+    Customer Name, Added Date, and Notes. It also contains a link for the user to create a new order.*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <form method="post" name="Display">
+        <h2>Customer Orders</h2>
+        @Html.ActionLink("Create Order", "Insert")
+        <br />
+        @{
+            if (Model.Rows.Count > 0)
+            {
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <td align="center" width="100">
+                                <strong>Order ID</strong>
+                            </td>
+                            <td align="center" width="100">
+                                <strong>Customer ID</strong>
+                            </td>
+                            <td align="center" width="150">
+                                <strong>Customer Name</strong>
+                            </td>
+                            <td align="center" width="175">
+                                <strong>Added Date</strong>
+                            </td>
+                            <td align="center" width="150">
+                                <strong>Notes</strong>
+                            </td>
+                        </tr>
+                    </thead>
+                    @foreach (DataRow dr in Model.Rows)
+                    {
+                        <tr>
+                            <td align="center">@dr["Id"].ToString()  </td>
+                            <td align="center">@dr["CustomerId"].ToString()  </td>
+                            <td align="center">@dr["CustomerName"].ToString()  </td>
+                            <td align="center">@dr["AddedDate"].ToString()  </td>
+                            <td align="center">@dr["Notes"].ToString()  </td>
+                        </tr>
+                    }
+                </table>
+                <br />
+            }
+            else
+            {
+                <span> No records found!</span>
+            }
+        }
+    </form>
+</body>
+</html>
