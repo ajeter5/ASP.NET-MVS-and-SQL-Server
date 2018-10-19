@@ -1,0 +1,11 @@
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master 3\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\bin\Debug\DeveloperInterview.Database.dll
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master 3\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\bin\Debug\DeveloperInterview.Database.pdb
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master 3\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\obj\Debug\DeveloperInterview.Database.csprojResolveAssemblyReference.cache
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master 3\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\obj\Debug\DeveloperInterview.Database.csproj.CoreCompileInputs.cache
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master 3\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\obj\Debug\DeveloperInterview.Database.dll
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master 3\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\obj\Debug\DeveloperInterview.Database.pdb
+C:\Users\ajete\OneDrive\CRC Test\ASP.NET MVC and SQL Server Project - Austin Jeter\DeveloperInterview.Database\bin\Debug\DeveloperInterview.Database.dll
+C:\Users\ajete\OneDrive\CRC Test\ASP.NET MVC and SQL Server Project - Austin Jeter\DeveloperInterview.Database\bin\Debug\DeveloperInterview.Database.pdb
+C:\Users\ajete\OneDrive\CRC Test\ASP.NET MVC and SQL Server Project - Austin Jeter\DeveloperInterview.Database\obj\Debug\DeveloperInterview.Database.csproj.CoreCompileInputs.cache
+C:\Users\ajete\OneDrive\CRC Test\ASP.NET MVC and SQL Server Project - Austin Jeter\DeveloperInterview.Database\obj\Debug\DeveloperInterview.Database.dll
+C:\Users\ajete\OneDrive\CRC Test\ASP.NET MVC and SQL Server Project - Austin Jeter\DeveloperInterview.Database\obj\Debug\DeveloperInterview.Database.pdb

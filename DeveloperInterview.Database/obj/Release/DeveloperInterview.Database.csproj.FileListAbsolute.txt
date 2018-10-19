@@ -1,0 +1,5 @@
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\bin\Release\DeveloperInterview.Database.dll
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\bin\Release\DeveloperInterview.Database.pdb
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\obj\Release\DeveloperInterview.Database.csproj.CoreCompileInputs.cache
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\obj\Release\DeveloperInterview.Database.dll
+C:\Users\ajete\OneDrive\CRC Test\DeveloperInterview_AustinJeter-master\DeveloperInterview_AustinJeter-master\DeveloperInterview.Database\obj\Release\DeveloperInterview.Database.pdb
